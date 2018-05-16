@@ -1,7 +1,7 @@
 {
-    "name": "clmicrobit",
+    "name": "CL microbit car",
     "version": "0.1",
-    "description": " CL Extension for microbitcar",
+    "description": " CL Extension for microbit car",
     "license": "MIT",
     "dependencies": {
         "core": "*",
