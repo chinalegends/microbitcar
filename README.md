@@ -1,6 +1,6 @@
-# mbit
+# CL microbit car
 
-Extension for microbitcar
+CL Extension for microbitcar
 
 ## License
 
